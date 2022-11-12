@@ -1,1 +1,1 @@
-Altium ve Stm CubeIDE kullanarak, iki farklı kasaya uygun multifonksiyonel PCB'lerden oluşan endüstriyel ve hassas eğim sensörü tasarımım.
+Hassas eğim ölçümü gerektiren uygulamalarda kullanılmak üzere geliştirdiğim endüstriyel eğim sensörü tasarımımdır. PCB çizimini Altium, yazılımı Stm CubeIDE kullanarak gerçekleştirdim. Preje iki farklı kasaya uygun multifonksiyonel PCB'lerden oluşmaktadır.
